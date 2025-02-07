@@ -1,6 +1,7 @@
 # 3D Globe with Satellites
 A stunning 3D globe with satellite animations, accompanied by a soothing background soundtrack.
-![Uploading 3D Earth.png…]()
+![3D Earth](https://github.com/user-attachments/assets/f65ce785-7adc-4de4-a23c-d2994a315d06)
+
 
 ## Description
 This project uses the Three.js library to create a realistic 3D globe with rotating satellites. The globe is textured with a high-resolution image of the Earth, and the satellites are animated to follow elliptical orbits. The background soundtrack is a calming piano melody that adds to the overall ambiance of the project.
